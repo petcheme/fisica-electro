@@ -5,6 +5,8 @@ close all
 
 clc
 
+aa
+
 z = linspace(1, 50, 10000);
 
 R = 10;
